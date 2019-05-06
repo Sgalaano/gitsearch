@@ -23,4 +23,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ##MORE INFORMATION
 contact me on my no. 096184389
 fb: Suleiman gee galaano
-ig: Its_wako_
+ig: Its_wako_ ,,,,,,,,,,,,
