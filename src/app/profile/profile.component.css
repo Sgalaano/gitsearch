@@ -1,0 +1,82 @@
+.header{
+  color: plum;
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Abril Fatface', cursive;
+  text-decoration-line: underline;
+}
+
+
+#userprofile{
+  color: rgb(230, 10, 10);
+  font-size: 13px;
+  padding-left: 120px;
+}
+.ul{
+  font-size: 22px;
+  font-family: 'Berkshire Swash', cursive;
+}
+.names{
+  font-size: 20px;
+  color: rgb(187, 14, 14);
+  font-family: 'Oleo Script', cursive;
+}
+#emailocation{
+  font-size: 13px;
+}
+#email{
+  padding-left:135px;
+  width: 335px;
+}
+#repos-part{
+  padding-left: 60px;
+}
+#labels{
+  font-size: 15px;
+  font-family: 'Oleo Script', cursive;
+}
+#view{
+  font-size: 17px;
+  font-family: 'Oleo Script', cursive;
+}
+
+.repos{
+  font-family: 'Oleo Script', cursive;
+  font-size: 23px;
+  color: black;
+  text-align: center;
+
+}
+
+#heading{
+  background: black;
+}
+.reposs{
+  color: rgb(236, 20, 20);
+  font-size: 25px;
+  font-family: 'Oleo Script', cursive;
+  text-decoration-line: underline;
+}
+.description{
+  color: rgb(212, 11, 11);
+  font-size: 20px;
+  font-family: 'Oleo Script', cursive;
+}
+.buttons{
+  font-size: 18px;
+  font-family: 'Oleo Script', cursive;
+  color: black;
+}
+.creation-date{
+  font-size: 17px;
+  color: rgb(212, 25, 25);
+  font-family: 'Oleo Script', cursive;
+}
+.update-date{
+  font-size: 17px;
+  color: rgb(212, 25, 25);
+  font-family: 'Oleo Script', cursive;
+}
+.dates{
+  color: rgb(177, 69, 209);
+}

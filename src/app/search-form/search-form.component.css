@@ -1,0 +1,29 @@
+::placeholder{
+  color: black;
+  font-size: 25px;
+  font-family: 'Oleo Script', cursive;
+}
+input{
+  height: 50px;
+  width: 120%;
+  font-size: 22px;
+  font-family: 'Oleo Script', cursive;
+
+}
+#inputtext{
+  font-size: 17px;
+  color: black;
+
+}
+form{
+  text-align: center;
+}
+#button{
+  font-size: 19px;
+  padding: 5px;
+  border-color: solid green;
+  font-family: 'Oleo Script', cursive;
+}
+#input{
+  text-align: center;
+}
