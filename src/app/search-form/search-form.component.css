@@ -21,7 +21,7 @@ form{
 #button{
   font-size: 19px;
   padding: 5px;
-  border-color: solid green;
+  border-color: solid rgb(30, 161, 223);
   font-family: 'Oleo Script', cursive;
 }
 #input{
